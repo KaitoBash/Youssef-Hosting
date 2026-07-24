@@ -14,7 +14,7 @@ from telegram.ext import (
 
 # ========== إعدادات البوت ==========
 BOT_TOKEN = "8971981706:AAHH_rRbG1ndaEva1a6zppIArSRsn74-hWA"
-API_BASE_URL = os.environ.get("API_BASE_URL", "https://kaito-hosting.railway.com")
+API_BASE_URL = os.environ.get("API_BASE_URL", "https://kaito-hosting.up.railway.com")
 
 # إيدي الأدمن على تليجرام
 ADMIN_TELEGRAM_IDS = [8792200095]
